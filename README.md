@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**e-ed/e-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eduardo Evangelista
 
-Here are some ideas to get you started:
+Computer Science student @ IFSP (Instituto Federal de São Paulo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 
+Backend development using Java and Spring framework. 
+
+I also enjoy using JavaScript (going to study typescript and nestJS whenever I have more free time) and Python.
+
+ For my personal projects I use PostgreSQL and MySQL
+
+ ## Projects
+
+
+[To Do List - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/nascimento-felipe/To-Do/)
+
+[Stock managements for produts - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/nascimento-felipe/To-Do/)
+
+
+## 🔗 Links and contact info
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-evangelista-407555287/)
+
+E-mail: eduardojmevangelista@gmail.com
+
+
