@@ -15,7 +15,7 @@ I also enjoy using JavaScript (going to study typescript and nestJS whenever I h
 
 [To Do List - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/nascimento-felipe/To-Do/)
 
-[Stock managements for produts - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/nascimento-felipe/To-Do/)
+[Stock managements for produts - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/e-ed/Store)
 
 
 ## 🔗 Links and contact info
