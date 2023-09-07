@@ -4,20 +4,21 @@
 Computer Science student @ IFSP (Instituto Federal de São Paulo)
 
 ## Interests 
-Backend development using Java and Spring framework. 
+Full stack development using Typescript, React, Java and Spring. 
 
-I also enjoy using JavaScript (going to study typescript and nestJS whenever I have more free time) and Python.
+I also enjoy using Python for small scripts.
 
- For my personal projects I use PostgreSQL and MySQL
+For my personal projects I use PostgreSQL and MySQL
 
  ## Projects
 
+[Wordle Clone using Typescript and React](https://github.com/e-ed/wordle-clone)
 
 [To Do List - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/nascimento-felipe/To-Do/)
 
 [Stock managements for produts - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/e-ed/Store)
 
-[Wordle Clone using Typescript and React](https://github.com/e-ed/wordle-clone)
+
 
 
 ## 🔗 Links and contact info
