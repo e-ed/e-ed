@@ -17,6 +17,8 @@ I also enjoy using JavaScript (going to study typescript and nestJS whenever I h
 
 [Stock managements for produts - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/e-ed/Store)
 
+[Wordle Clone using Typescript and React](https://github.com/e-ed/wordle-clone)
+
 
 ## 🔗 Links and contact info
 
