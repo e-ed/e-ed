@@ -1,6 +1,8 @@
 
 # Eduardo Evangelista
 
+Full stack developer intern @ testRigor
+
 Computer Science student @ IFSP (Instituto Federal de São Paulo)
 
 ## Interests 
