@@ -6,7 +6,7 @@ Full stack developer intern @ testRigor
 Computer Science student @ IFSP (Instituto Federal de São Paulo)
 
 ## Interests 
-Full stack development using Typescript, React, Java and Spring. 
+Full stack development using Javascript, React, Java and Spring. 
 
 I also enjoy using Python for small scripts.
 
