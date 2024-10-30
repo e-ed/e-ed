@@ -1,27 +1,12 @@
 
 # Eduardo Evangelista
 
-Full stack developer intern @ testRigor
+Full stack engineer @ testRigor
 
 Computer Science student @ IFSP (Instituto Federal de São Paulo)
 
 ## Interests 
 Full stack development using Javascript, React, Java and Spring. 
-
-I also enjoy using Python for small scripts.
-
-For my personal projects I use PostgreSQL and MySQL
-
- ## Projects
-
-[Wordle Clone using Typescript and React](https://github.com/e-ed/wordle-clone)
-
-[To Do List - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/nascimento-felipe/To-Do/)
-
-[Stock managements for produts - simple CRUD with Java, Spring Boot and PostgreSQL](https://github.com/e-ed/Store)
-
-
-
 
 ## 🔗 Links and contact info
 
