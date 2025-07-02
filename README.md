@@ -3,7 +3,7 @@
 
 Full stack engineer @ testRigor
 
-Computer Science student @ IFSP (Instituto Federal de São Paulo)
+B.Sc. in Computer Science – IFSP (Instituto Federal de São Paulo)
 
 ## Interests 
 Full stack development using Javascript, React, Java and Spring. 
