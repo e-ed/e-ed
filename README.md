@@ -6,7 +6,8 @@ Full stack engineer @ testRigor
 B.Sc. in Computer Science – IFSP (Instituto Federal de São Paulo)
 
 ## Interests 
-Full stack development using Javascript, React, Java and Spring. 
+ - Full stack development using Javascript, React, Java and Spring;
+ - Game development, mainly with Unity and C#
 
 ## 🔗 Links and contact info
 
